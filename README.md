@@ -1,2 +1,2 @@
 # Keyboard-Substitution-Program
-A custom Kerbal Space Program Conroller made for the Hack Club Stardance event
+A custom Kerbal Space Program Controller made for the Hack Club Stardance event
