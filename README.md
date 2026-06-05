@@ -5,6 +5,8 @@ A custom Kerbal Space Program Controller made for the Hack Club Stardance event!
 This project aims to create a custom controller for the game Kerbal Space Program which allows complete control of the game without the keyboard, shooting for a more immersive experience in game. 
 This repository contains all code files for each arduino board in the controller, files for all 3d printed parts, a list of components needed to purchase, and instructions for how to build your own!
 
+<img width="1408" height="1008" alt="Screenshot 2026-06-04 054627" src="https://github.com/user-attachments/assets/091b7b62-f863-48ef-9968-fe734054d668" />
+
 # Specifics
 This project is based around the Kerbal Simpit Revamped Mod for Kerbal Space Program 1 (the code might work for KSP 2 as well but I dont own a copy so I cant ensure it)
 
@@ -15,8 +17,7 @@ It is built off of 4 Arduino Uno R4 Minima boards, providing enough inputs and o
   - Staging (with safety switch)
   - Abort (with safety switch)
   - Attitude and translation (including fine control)
-  - Throttle
-  - RCS
+  - Throttle & RCS
   - Quick save/load
   - 3 lines of alphanumerical data output with several modes avalible to view on demand
     
